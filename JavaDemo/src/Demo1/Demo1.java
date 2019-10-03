@@ -8,7 +8,7 @@ public class Demo1 {
 
 	}
 	public void setValue() {
-		System.out.println(" creating new method");
+		System.out.println(" creating new method this is adding");
 	}
 
 }
