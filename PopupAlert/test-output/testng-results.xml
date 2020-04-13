@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4144" started-at="2019-09-03T01:15:36Z" finished-at="2019-09-03T01:15:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4144" started-at="2019-09-03T01:15:36Z" finished-at="2019-09-03T01:15:40Z">
+      <class name="com.alerts.tests.TestingAlerts">
+        <test-method status="PASS" signature="firstAlertTest()[pri:0, instance:com.alerts.tests.TestingAlerts@9629756]" name="firstAlertTest" duration-ms="3983" started-at="2019-09-02T21:15:36Z" finished-at="2019-09-02T21:15:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstAlertTest -->
+      </class> <!-- com.alerts.tests.TestingAlerts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
